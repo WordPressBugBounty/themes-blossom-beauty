@@ -2,8 +2,8 @@
 
 Contributors: blossomthemes
 Requires at least: 4.7
-Tested up to: 6.4
-Stable tag: 1.1.4
+Tested up to: 6.9
+Stable tag: 1.1.5
 Requires PHP: 5.6
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -50,6 +50,9 @@ All other images including icon image used in screenshot and images used in cust
 
 == Changelog ==
 
+	1.1.5- December 30, 2025
+        *Fix: Minor bugs.
+    
 	1.1.4- December 11, 2023        
         * Update: Now users can add Instagram shortcode from any plugins of their choice.
 
