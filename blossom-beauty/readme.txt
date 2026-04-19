@@ -1,10 +1,10 @@
 === Blossom Beauty ===
 
 Contributors: blossomthemes
-Requires at least: 4.7
+Requires at least: 6.2
 Tested up to: 6.9
-Stable tag: 1.1.5
-Requires PHP: 5.6
+Stable tag: 1.1.6
+Requires PHP: 7.4
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Tags: blog,one-column,two-columns,right-sidebar,left-sidebar,footer-widgets,custom-background,custom-header,custom-menu,custom-logo,featured-images,threaded-comments,full-width-template,rtl-language-support,translation-ready,theme-options,photography,e-commerce
@@ -50,6 +50,9 @@ All other images including icon image used in screenshot and images used in cust
 
 == Changelog ==
 
+	1.1.6 - April 06, 2026
+        * Fix: Updated PHP to 7.4
+    
 	1.1.5- December 30, 2025
         *Fix: Minor bugs.
     
