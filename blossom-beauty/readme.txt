@@ -2,8 +2,8 @@
 
 Contributors: blossomthemes
 Requires at least: 6.2
-Tested up to: 6.9
-Stable tag: 1.1.6
+Tested up to: 7.0
+Stable tag: 1.1.7
 Requires PHP: 7.4
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -49,6 +49,9 @@ Images used in screenshots.
 All other images including icon image used in screenshot and images used in customizer settings are self created and are under the GPL.
 
 == Changelog ==
+
+	1.1.7 - June 05, 2026
+        * Fix:  Resolved an issue where the header search functionality was not working properly.
 
 	1.1.6 - April 06, 2026
         * Fix: Updated PHP to 7.4
